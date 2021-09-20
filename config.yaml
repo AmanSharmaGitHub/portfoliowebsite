@@ -1,31 +1,31 @@
 baseURL: https://www.aman-applied-statistics.netlify.app/
 languageCode: en-us
-title: Forty
+title: Aman
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Learn More
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      WELCOME TO MY PORTFOLIO WEBSITE - LEARN MORE ABOUT ME AND CHECK OUT SOME ANALYSIS I HAVE CONDUCTED USING R.
+  
+    title: Hey, my name is Aman
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: Maidenhead, SL6 3EH
+        country: United Kingdom
+        street: Cox Green Road
         title: Address
-    buttonClear: Clear
-    buttonSend: Send message
+    buttonClear: Start Again
+    buttonSend: Say Hello
     email:
-      - email: example@domain.com
+      - email: amanakshay@gmail.com
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (0791) 5878-953
         title: Phone
   custom_css: []
   custom_js: []
@@ -53,10 +53,10 @@ params:
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://www.github.com/AmanSharmaGitHub
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/amanakshaysharma
   image: ''
   name: Your name
   navigation:
@@ -76,43 +76,40 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Portfolio
+    title: Aman
   tiles:
     enable: yes
     showcase:
       - image: pic01.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        title: Page 1
+        url: blogs/pageone
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        title: Page 2
+        url: blogs/pagetwo
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        title: Page 3
+        url: blogs/pagethree
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        title: Page 4
+        url: blogs/pagefour
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+        title: Page 5
+        url: blogs/pagefive
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        title: Page 6
+        url: blogs/pagesix
   two:
-    buttonText: Get Started
+    buttonText: Check it out
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Welcome to my portfolio website. My name is Aman, I am British and from a 2nd generation Indian immigrant family. We are Hindu Punjabis from North India.
+    I have lived in the UK all my life. I studied at UCL for my undergraduate and the next challenge is the MAM at LBS!
+    I have included some data analysis conducted using R, please take a look!"
+    title: Welcome!
     url: blogs
