@@ -97,7 +97,7 @@ params:
         subtitle: Nisl Sed Aliquam
         title: Page 4
         url: blogs/pagefour
-        - image: pic03.jpg
+      - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Page 3
         url: blogs/pagefive
