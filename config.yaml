@@ -14,18 +14,18 @@ params:
   blog: {}
   contact:
     address:
-      - city: Maidenhead, SL6 3EH
+      - city: NW1 4SA
         country: United Kingdom
-        street: Cox Green Road
+        street: LBS
         title: Address
     buttonClear: Start Again
     buttonSend: Say Hello
     email:
-      - email: amanakshay@gmail.com
+      - email: aman.sharma@gmail.com
         title: Email
     enable: yes
     phone:
-      - phone: (0791) 5878-953
+      - phone: (0791) 234567
         title: Phone
   custom_css: []
   custom_js: []
